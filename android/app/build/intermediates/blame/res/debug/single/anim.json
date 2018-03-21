@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/Cherie/.android/build-cache/5b3284d74118f022bbc14b6fb4996d2f1e154a05/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/Cherie/.android/build-cache/5b3284d74118f022bbc14b6fb4996d2f1e154a05/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/Cherie/.android/build-cache/5b3284d74118f022bbc14b6fb4996d2f1e154a05/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/Cherie/.android/build-cache/5b3284d74118f022bbc14b6fb4996d2f1e154a05/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/Cherie/.android/build-cache/5b3284d74118f022bbc14b6fb4996d2f1e154a05/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/Cherie/.android/build-cache/5b3284d74118f022bbc14b6fb4996d2f1e154a05/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/anim/abc_popup_exit.xml"
+    }
+]
