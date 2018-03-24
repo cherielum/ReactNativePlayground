@@ -1,30 +1,29 @@
-import React from 'react'; 
-import { View, Text, StyleSheet, TouchableOpacity, Image } from 'react-native';
+import React from "react";
+import { View, Text, StyleSheet, TouchableOpacity, Image } from "react-native";
 
 const listItem = props => (
-    <TouchableOpacity onPress={props.onItemPressed}>
-    <View style = {styles.listItem}>
-        <Image resizeMode = "cover" source = {props.placeImage} style = {styles.placeImage}/> 
-        <Text>{props.placeName}</Text>
+  <TouchableOpacity onPress={props.onItemPressed}>
+    <View style={styles.listItem}>
+      <Image resizeMode="cover" source={props.placeImage} style={styles.placeImage} />
+      <Text>{props.placeName}</Text>
     </View>
-    </TouchableOpacity>
+  </TouchableOpacity>
 );
 
 const styles = StyleSheet.create({
-    
-    listItem: {
+  listItem: {
     width: "100%",
+    marginBottom: 5,
     padding: 10,
-    backgroundColor: "pink",
-    marginBottom: 5, //applied to all unless you do margin-bottom
+    backgroundColor: "#eee",
     flexDirection: "row",
     alignItems: "center"
-    },
-    placeImage: {
-        marginRight: 8,
-        height: 30,
-        width: 30, 
-    } 
+  },
+  placeImage: {
+      marginRight: 8,
+      height: 30,
+      width: 30
+  }
 });
 
-export default listItem; 
+export default listItem;
