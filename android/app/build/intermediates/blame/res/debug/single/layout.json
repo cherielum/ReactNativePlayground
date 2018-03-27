@@ -4,12 +4,12 @@
         "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
         "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
