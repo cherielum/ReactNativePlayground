@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Mar 27 18:41:58 EDT 2018
+#Wed Mar 28 14:03:50 EDT 2018
 210.set=ANDROID_RESOURCE
 282.file=/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
 14.set=ANDROID_RESOURCE

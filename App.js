@@ -17,6 +17,7 @@ import {
 class App extends Component {
   placeAddedHandler = placeName => {
     this.props.onAddPlace(placeName);
+    console.log('Place Added!');
   };
 
   placeDeletedHandler = () => {
@@ -59,13 +60,14 @@ const styles = StyleSheet.create({
   }
 });
 
+//map my state to props
 const mapStateToProps = state => {
   return {
     places: state.places.places,
     selectedPlace: state.places.selectedPlace
   };
 };
-
+//receives dispatch function as an argument 
 const mapDispatchToProps = dispatch => {
   return {
     onAddPlace: name => dispatch(addPlace(name)),
