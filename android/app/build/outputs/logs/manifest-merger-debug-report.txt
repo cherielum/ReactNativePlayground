@@ -26,6 +26,7 @@ MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.android/buil
 		ADDED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [rncourse:react-native-vector-icons:unspecified] /Users/Cherie/React Native Apps/rn-course/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.android/build-cache/5b3284d74118f022bbc14b6fb4996d2f1e154a05/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Cherie/.android/build-cache/66f311caea7df1ad3bfcffa6d60f30ba8be9bb8c/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.1] /Users/Cherie/.android/build-cache/8b2f2d00bc22303a403a445cd2a2756fd85092f2/output/AndroidManifest.xml:20:5-43
