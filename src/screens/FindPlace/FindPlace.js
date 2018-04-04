@@ -5,10 +5,10 @@ class FindPlaceScreen extends Component {
     render() {
         return (
             <View>
-                <Text> On SharePlaceScreen </Text>
+                <Text> On FindPlaceScreen </Text>
             </View>
         );
     }
 }
 
-export default SharePlacesScreen; 
+export default FindPlaceScreen; 

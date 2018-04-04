@@ -5,10 +5,10 @@ class SharePlaceScreen extends Component {
     render() {
         return (
             <View>
-                <Text> On SharePlaceScreen </Text>
+                <Text> On SharePlacScreen </Text>
             </View>
         );
     }
 }
 
-export default SharePlacesScreen; 
+export default SharePlaceScreen; 
