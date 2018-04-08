@@ -16,7 +16,9 @@ Navigation.registerComponent("awesome-places.FindPlaceScreen", () => FindPlaceSc
 
 Navigation.registerComponent(
   "awesome-places.PlaceDetailScreen",
-  () => PlaceDetailScreen   
+  () => PlaceDetailScreen,
+  store, 
+  Provider   
 )
 
 //Start an App 
