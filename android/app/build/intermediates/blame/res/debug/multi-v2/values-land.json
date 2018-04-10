@@ -4,7 +4,7 @@
             "outputFile": "/Users/Cherie/React Native Apps/rn-course/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9adf53464ffe7ca5a40ecf5655b69081/res/values-land/values-land.xml",
+                    "source": "/Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1f21d508856c4626121d180fafdb9ca3/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5de7840e522aac3b8993d9bd8c2e76fa/res/values-land/values-land.xml",
+                    "source": "/Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/cc5c4a08513f4e28ad86b8303ad817b4/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

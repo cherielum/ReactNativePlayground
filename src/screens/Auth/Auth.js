@@ -1,5 +1,3 @@
-//screens are containers 
-
 import React, {Component} from 'react'; 
 import {View, Text, Button} from 'react-native';
 
@@ -11,12 +9,11 @@ class AuthScreen extends Component {
         startMainTabs(); 
     }
 
-
     render (){
         return (
             <View>
                 <Text> Auth Screen </Text>
-                <Button title = "Login" onPress = {this.loginHandler} />
+                <Button title="Login" onPress = {this.loginHandler} />
             </View>
         ); 
     }
