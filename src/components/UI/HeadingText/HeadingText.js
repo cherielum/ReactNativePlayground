@@ -3,7 +3,7 @@ import { Text, StyleSheet } from 'react-native';
 
 const headingText = props => (
      <Text {...props} style={[styles.textHeading, props.style ]}> 
-           {Props.children}
+           {props.children}
      </Text>
 );
 
