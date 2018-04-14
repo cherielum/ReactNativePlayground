@@ -4,6 +4,7 @@ import { View, Text, TextInput, Button, StyleSheet, ScrollView } from 'react-nat
 //middleware
 import { connect } from 'react-redux';
 import { addPlace } from '../../store/actions/index';
+import DefaultInput from '../../components/UI/DefaultInput/DefaultInput';
 
 class SharePlaceScreen extends Component {
     constructor(props) {
@@ -28,29 +29,45 @@ class SharePlaceScreen extends Component {
     render() {
         return (
             <ScrollView>
+            <View style={styles.container}>
                 <Text>Share a Place with Us! </Text>
                 <View style={styles.placeholder}>
                     <Text>Image Preview </Text>
                 </View>
-                <Button title="Pick Image" />
+                <View style={styles.button}>
+                    <Button title="Pick Image" />
+                </View>
                 <View style={styles.placeholder}>
                     <Text>Map</Text>
                 </View>
-                <Button title="Locate Me" />
-                <TextInput placeholder="Place Name"/>
-                <Button title="Share the Place!" />
+                <View style={styles.button}>
+                    <Button title="Locate Me" />
+                </View>
+                <DefaultInput placeholder="Place Name"/>
+                <View style={styles.button}>
+                    <Button title="Share the Place!" />
+                </View>
+            </View>
             </ScrollView>
         );
     }
 }
 
 const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        alignItems: "center",
+    },
+
     placeholder: {
         borderWidth: 1,
         borderColor: "black",
         backgroundColor: "#eee",
         width: "80%",
         height: 150
+    },
+    button: {
+       margin: 8 
     }
 })
 
