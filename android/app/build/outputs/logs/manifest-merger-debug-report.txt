@@ -6,31 +6,31 @@ INJECTED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/And
 INJECTED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12
 MERGED from [:react-native-navigation] /Users/Cherie/React Native Apps/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
 MERGED from [:react-native-vector-icons] /Users/Cherie/React Native Apps/rn-course/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/06f040f811e6ed2d5f7459757960e525/AndroidManifest.xml:2:1-15:12
-MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/a9f5e476573ab63a40793eaddff7d545/AndroidManifest.xml:2:1-14:12
-MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/071759af208802de017ffe2503af3665/AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/cc5c4a08513f4e28ad86b8303ad817b4/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1f21d508856c4626121d180fafdb9ca3/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/2834878d59678f17d66d0c3a61ecd2d7/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/8d72080a1fa86a6183d55e499856cd9f/AndroidManifest.xml:17:1-31:12
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/ab41aee84c02503f89c8bd5d218d98bc/AndroidManifest.xml:10:1-18:12
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/001f6e07c35047bc5532b5eccaffc152/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/2ddaa3efd4541af90a1383d6b80569be/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cc4a400b949ead118c4599fc7a4f2e13/AndroidManifest.xml:1:1-4:12
-MERGED from [org.webkit:android-jsc:r174650] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/57ba344ba7432e8c95c780a2ddab9ef3/AndroidManifest.xml:1:1-3:12
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/1f2cacacda0d17c2a1fdc7006cccceea/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/4fca7cf460003bb9eff4a63e31edecdb/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/e7aacba4853748be0c362789a64e7b79/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/0ca6e90f720c7bf79fa0ea232405e224/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/720b7ee4b02897cd32debb7c24d334e5/AndroidManifest.xml:17:1-26:12
-MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/161148d252e1043027eb0cce6dc610ea/AndroidManifest.xml:2:1-14:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/350cd860f31acc743a9d541b4b1b2af2/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c13cc7b911ce723002f88d924e0b1eda/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6d0565b06cc4814e68c94fc8196df763/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/03cc01c509cc3360564f1fb730fa7e0f/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/212c80d8a5367e0394e4babe2b24f4ed/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/af10d31797bdf7552ac96cb1aba28ed5/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/bed4ed3b1da4552a088e00e2ed35e430/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/d1ed66540ef8dfffc420c776beb2bd8a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/ff2d04cab3cb069880bae6bb65c0110f/AndroidManifest.xml:2:1-14:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/1cb6b98ef5cc2739f25ef7ff13cdd653/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5de7840e522aac3b8993d9bd8c2e76fa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9adf53464ffe7ca5a40ecf5655b69081/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/87344080320e849a556e6235ca797745/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/68b366f2f3da52f27bb59624580adfc2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e2db7000ca95e0fc60885f4a32e24a7e/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/f26a060b3d9b3c0e5f8c78a5840aae4a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/d29bac68d59794cdbea515b6e925f141/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f1810aa97e4b23c436c1635cd2a6f1b2/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/140f339560d2d9b1675d3ebbb60ad60b/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/95b007a366f4b31da108bbabc32db1a6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/719877d9a5c38789d995c7c4b97eeadf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/f392b065b008214cdd696e7fdb1f0cb7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/0d7ed87c71fc55ddbad4d753fa554109/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/4a090c6ce7ab50882c9471a78c5507c0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/74f8bcbc5b4f35e5474c2161090ea0bf/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4c8a726e0003faf61da2c30ef62fb0c5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/09fde6fb1274b4e34bf78cc3de43cc6c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/cb06dc93718d81de2d83f48c4751f048/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5eb7536d9274f34d3d30afc455f34507/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e817af2d7598a0de60bad4bba28cc627/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b53d81213a02d532c762ab7e4f3ee15b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88794ebac6632d5a54fb246135d5a32b/AndroidManifest.xml:17:1-31:12
 INJECTED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12
 INJECTED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12
 INJECTED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12
@@ -54,8 +54,8 @@ ADDED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/Androi
 		ADDED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/06f040f811e6ed2d5f7459757960e525/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/06f040f811e6ed2d5f7459757960e525/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/d1ed66540ef8dfffc420c776beb2bd8a/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/d1ed66540ef8dfffc420c776beb2bd8a/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
@@ -66,58 +66,58 @@ MERGED from [:react-native-navigation] /Users/Cherie/React Native Apps/rn-course
 MERGED from [:react-native-navigation] /Users/Cherie/React Native Apps/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/Cherie/React Native Apps/rn-course/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/Cherie/React Native Apps/rn-course/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/06f040f811e6ed2d5f7459757960e525/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/06f040f811e6ed2d5f7459757960e525/AndroidManifest.xml:7:5-9:41
-MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/a9f5e476573ab63a40793eaddff7d545/AndroidManifest.xml:8:5-10:41
-MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/a9f5e476573ab63a40793eaddff7d545/AndroidManifest.xml:8:5-10:41
-MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/071759af208802de017ffe2503af3665/AndroidManifest.xml:7:5-9:41
-MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/071759af208802de017ffe2503af3665/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/cc5c4a08513f4e28ad86b8303ad817b4/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/cc5c4a08513f4e28ad86b8303ad817b4/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1f21d508856c4626121d180fafdb9ca3/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1f21d508856c4626121d180fafdb9ca3/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/2834878d59678f17d66d0c3a61ecd2d7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/2834878d59678f17d66d0c3a61ecd2d7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/8d72080a1fa86a6183d55e499856cd9f/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/8d72080a1fa86a6183d55e499856cd9f/AndroidManifest.xml:21:5-23:54
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/ab41aee84c02503f89c8bd5d218d98bc/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/ab41aee84c02503f89c8bd5d218d98bc/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/001f6e07c35047bc5532b5eccaffc152/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/001f6e07c35047bc5532b5eccaffc152/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/2ddaa3efd4541af90a1383d6b80569be/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/2ddaa3efd4541af90a1383d6b80569be/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cc4a400b949ead118c4599fc7a4f2e13/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cc4a400b949ead118c4599fc7a4f2e13/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/1f2cacacda0d17c2a1fdc7006cccceea/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/1f2cacacda0d17c2a1fdc7006cccceea/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/4fca7cf460003bb9eff4a63e31edecdb/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/4fca7cf460003bb9eff4a63e31edecdb/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/e7aacba4853748be0c362789a64e7b79/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/e7aacba4853748be0c362789a64e7b79/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/0ca6e90f720c7bf79fa0ea232405e224/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/0ca6e90f720c7bf79fa0ea232405e224/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/720b7ee4b02897cd32debb7c24d334e5/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/720b7ee4b02897cd32debb7c24d334e5/AndroidManifest.xml:20:5-43
-MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/161148d252e1043027eb0cce6dc610ea/AndroidManifest.xml:8:5-10:41
-MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/161148d252e1043027eb0cce6dc610ea/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/350cd860f31acc743a9d541b4b1b2af2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/350cd860f31acc743a9d541b4b1b2af2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c13cc7b911ce723002f88d924e0b1eda/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c13cc7b911ce723002f88d924e0b1eda/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6d0565b06cc4814e68c94fc8196df763/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6d0565b06cc4814e68c94fc8196df763/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/03cc01c509cc3360564f1fb730fa7e0f/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/03cc01c509cc3360564f1fb730fa7e0f/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/212c80d8a5367e0394e4babe2b24f4ed/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/212c80d8a5367e0394e4babe2b24f4ed/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/af10d31797bdf7552ac96cb1aba28ed5/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/af10d31797bdf7552ac96cb1aba28ed5/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/bed4ed3b1da4552a088e00e2ed35e430/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/bed4ed3b1da4552a088e00e2ed35e430/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/d1ed66540ef8dfffc420c776beb2bd8a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/d1ed66540ef8dfffc420c776beb2bd8a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/ff2d04cab3cb069880bae6bb65c0110f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/ff2d04cab3cb069880bae6bb65c0110f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/1cb6b98ef5cc2739f25ef7ff13cdd653/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/1cb6b98ef5cc2739f25ef7ff13cdd653/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5de7840e522aac3b8993d9bd8c2e76fa/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5de7840e522aac3b8993d9bd8c2e76fa/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9adf53464ffe7ca5a40ecf5655b69081/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9adf53464ffe7ca5a40ecf5655b69081/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/87344080320e849a556e6235ca797745/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/87344080320e849a556e6235ca797745/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/68b366f2f3da52f27bb59624580adfc2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/68b366f2f3da52f27bb59624580adfc2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e2db7000ca95e0fc60885f4a32e24a7e/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e2db7000ca95e0fc60885f4a32e24a7e/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/f26a060b3d9b3c0e5f8c78a5840aae4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/f26a060b3d9b3c0e5f8c78a5840aae4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/d29bac68d59794cdbea515b6e925f141/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/d29bac68d59794cdbea515b6e925f141/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f1810aa97e4b23c436c1635cd2a6f1b2/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f1810aa97e4b23c436c1635cd2a6f1b2/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/95b007a366f4b31da108bbabc32db1a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/95b007a366f4b31da108bbabc32db1a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/719877d9a5c38789d995c7c4b97eeadf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/719877d9a5c38789d995c7c4b97eeadf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/f392b065b008214cdd696e7fdb1f0cb7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/f392b065b008214cdd696e7fdb1f0cb7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/0d7ed87c71fc55ddbad4d753fa554109/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/0d7ed87c71fc55ddbad4d753fa554109/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/4a090c6ce7ab50882c9471a78c5507c0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/4a090c6ce7ab50882c9471a78c5507c0/AndroidManifest.xml:20:5-43
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/74f8bcbc5b4f35e5474c2161090ea0bf/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/74f8bcbc5b4f35e5474c2161090ea0bf/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4c8a726e0003faf61da2c30ef62fb0c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4c8a726e0003faf61da2c30ef62fb0c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/09fde6fb1274b4e34bf78cc3de43cc6c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/09fde6fb1274b4e34bf78cc3de43cc6c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/cb06dc93718d81de2d83f48c4751f048/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/cb06dc93718d81de2d83f48c4751f048/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5eb7536d9274f34d3d30afc455f34507/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5eb7536d9274f34d3d30afc455f34507/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e817af2d7598a0de60bad4bba28cc627/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e817af2d7598a0de60bad4bba28cc627/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b53d81213a02d532c762ab7e4f3ee15b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b53d81213a02d532c762ab7e4f3ee15b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88794ebac6632d5a54fb246135d5a32b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88794ebac6632d5a54fb246135d5a32b/AndroidManifest.xml:21:5-23:58
 INJECTED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:9:5-11:41
 INJECTED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:9:5-11:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/cc5c4a08513f4e28ad86b8303ad817b4/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5de7840e522aac3b8993d9bd8c2e76fa/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		ADDED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:11:9-38
 		INJECTED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml
@@ -130,40 +130,40 @@ application
 ADDED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:13:5-30:19
 MERGED from [:react-native-navigation] /Users/Cherie/React Native Apps/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
 MERGED from [:react-native-navigation] /Users/Cherie/React Native Apps/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
-MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/06f040f811e6ed2d5f7459757960e525/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/06f040f811e6ed2d5f7459757960e525/AndroidManifest.xml:13:5-20
-MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/a9f5e476573ab63a40793eaddff7d545/AndroidManifest.xml:12:5-20
-MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/a9f5e476573ab63a40793eaddff7d545/AndroidManifest.xml:12:5-20
-MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/071759af208802de017ffe2503af3665/AndroidManifest.xml:11:5-20
-MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/071759af208802de017ffe2503af3665/AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/cc5c4a08513f4e28ad86b8303ad817b4/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/cc5c4a08513f4e28ad86b8303ad817b4/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1f21d508856c4626121d180fafdb9ca3/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1f21d508856c4626121d180fafdb9ca3/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/2834878d59678f17d66d0c3a61ecd2d7/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/2834878d59678f17d66d0c3a61ecd2d7/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/8d72080a1fa86a6183d55e499856cd9f/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/8d72080a1fa86a6183d55e499856cd9f/AndroidManifest.xml:29:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cc4a400b949ead118c4599fc7a4f2e13/AndroidManifest.xml:3:3-17
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cc4a400b949ead118c4599fc7a4f2e13/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/57ba344ba7432e8c95c780a2ddab9ef3/AndroidManifest.xml:2:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/57ba344ba7432e8c95c780a2ddab9ef3/AndroidManifest.xml:2:3-17
-MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/161148d252e1043027eb0cce6dc610ea/AndroidManifest.xml:12:5-20
-MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/161148d252e1043027eb0cce6dc610ea/AndroidManifest.xml:12:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/350cd860f31acc743a9d541b4b1b2af2/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/350cd860f31acc743a9d541b4b1b2af2/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c13cc7b911ce723002f88d924e0b1eda/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c13cc7b911ce723002f88d924e0b1eda/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6d0565b06cc4814e68c94fc8196df763/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6d0565b06cc4814e68c94fc8196df763/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/03cc01c509cc3360564f1fb730fa7e0f/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/03cc01c509cc3360564f1fb730fa7e0f/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/212c80d8a5367e0394e4babe2b24f4ed/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/212c80d8a5367e0394e4babe2b24f4ed/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/af10d31797bdf7552ac96cb1aba28ed5/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/af10d31797bdf7552ac96cb1aba28ed5/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/bed4ed3b1da4552a088e00e2ed35e430/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/bed4ed3b1da4552a088e00e2ed35e430/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/d1ed66540ef8dfffc420c776beb2bd8a/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.52.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/d1ed66540ef8dfffc420c776beb2bd8a/AndroidManifest.xml:13:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/ff2d04cab3cb069880bae6bb65c0110f/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/ff2d04cab3cb069880bae6bb65c0110f/AndroidManifest.xml:12:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/1cb6b98ef5cc2739f25ef7ff13cdd653/AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/1cb6b98ef5cc2739f25ef7ff13cdd653/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5de7840e522aac3b8993d9bd8c2e76fa/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5de7840e522aac3b8993d9bd8c2e76fa/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9adf53464ffe7ca5a40ecf5655b69081/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9adf53464ffe7ca5a40ecf5655b69081/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/87344080320e849a556e6235ca797745/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/87344080320e849a556e6235ca797745/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/68b366f2f3da52f27bb59624580adfc2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/68b366f2f3da52f27bb59624580adfc2/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f1810aa97e4b23c436c1635cd2a6f1b2/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/f1810aa97e4b23c436c1635cd2a6f1b2/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/140f339560d2d9b1675d3ebbb60ad60b/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/140f339560d2d9b1675d3ebbb60ad60b/AndroidManifest.xml:2:3-17
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/74f8bcbc5b4f35e5474c2161090ea0bf/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/74f8bcbc5b4f35e5474c2161090ea0bf/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4c8a726e0003faf61da2c30ef62fb0c5/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4c8a726e0003faf61da2c30ef62fb0c5/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/09fde6fb1274b4e34bf78cc3de43cc6c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/09fde6fb1274b4e34bf78cc3de43cc6c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/cb06dc93718d81de2d83f48c4751f048/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/cb06dc93718d81de2d83f48c4751f048/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5eb7536d9274f34d3d30afc455f34507/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5eb7536d9274f34d3d30afc455f34507/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e817af2d7598a0de60bad4bba28cc627/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e817af2d7598a0de60bad4bba28cc627/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b53d81213a02d532c762ab7e4f3ee15b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b53d81213a02d532c762ab7e4f3ee15b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88794ebac6632d5a54fb246135d5a32b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88794ebac6632d5a54fb246135d5a32b/AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:16:7-39
 	android:icon
@@ -209,33 +209,33 @@ ADDED from [:react-native-navigation] /Users/Cherie/React Native Apps/rn-course/
 	android:name
 		ADDED from [:react-native-navigation] /Users/Cherie/React Native Apps/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-84
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/cc5c4a08513f4e28ad86b8303ad817b4/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1f21d508856c4626121d180fafdb9ca3/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1f21d508856c4626121d180fafdb9ca3/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/2834878d59678f17d66d0c3a61ecd2d7/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/2834878d59678f17d66d0c3a61ecd2d7/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/8d72080a1fa86a6183d55e499856cd9f/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/8d72080a1fa86a6183d55e499856cd9f/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/720b7ee4b02897cd32debb7c24d334e5/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/720b7ee4b02897cd32debb7c24d334e5/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/350cd860f31acc743a9d541b4b1b2af2/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/350cd860f31acc743a9d541b4b1b2af2/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c13cc7b911ce723002f88d924e0b1eda/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c13cc7b911ce723002f88d924e0b1eda/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6d0565b06cc4814e68c94fc8196df763/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/6d0565b06cc4814e68c94fc8196df763/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/03cc01c509cc3360564f1fb730fa7e0f/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/03cc01c509cc3360564f1fb730fa7e0f/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/212c80d8a5367e0394e4babe2b24f4ed/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/212c80d8a5367e0394e4babe2b24f4ed/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/af10d31797bdf7552ac96cb1aba28ed5/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/af10d31797bdf7552ac96cb1aba28ed5/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/bed4ed3b1da4552a088e00e2ed35e430/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/bed4ed3b1da4552a088e00e2ed35e430/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5de7840e522aac3b8993d9bd8c2e76fa/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9adf53464ffe7ca5a40ecf5655b69081/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9adf53464ffe7ca5a40ecf5655b69081/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/87344080320e849a556e6235ca797745/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/87344080320e849a556e6235ca797745/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/68b366f2f3da52f27bb59624580adfc2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/68b366f2f3da52f27bb59624580adfc2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/4a090c6ce7ab50882c9471a78c5507c0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/4a090c6ce7ab50882c9471a78c5507c0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4c8a726e0003faf61da2c30ef62fb0c5/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4c8a726e0003faf61da2c30ef62fb0c5/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/09fde6fb1274b4e34bf78cc3de43cc6c/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/09fde6fb1274b4e34bf78cc3de43cc6c/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/cb06dc93718d81de2d83f48c4751f048/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/cb06dc93718d81de2d83f48c4751f048/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5eb7536d9274f34d3d30afc455f34507/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/5eb7536d9274f34d3d30afc455f34507/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e817af2d7598a0de60bad4bba28cc627/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e817af2d7598a0de60bad4bba28cc627/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b53d81213a02d532c762ab7e4f3ee15b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b53d81213a02d532c762ab7e4f3ee15b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88794ebac6632d5a54fb246135d5a32b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/88794ebac6632d5a54fb246135d5a32b/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/cc5c4a08513f4e28ad86b8303ad817b4/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5de7840e522aac3b8993d9bd8c2e76fa/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/cc5c4a08513f4e28ad86b8303ad817b4/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] /Users/Cherie/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/5de7840e522aac3b8993d9bd8c2e76fa/AndroidManifest.xml:26:9-47
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /Users/Cherie/React Native Apps/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
