@@ -1,5 +1,5 @@
 import { Navigation } from 'react-native-navigation';
-import {Provider} from 'react-redux';
+import { Provider} from 'react-redux';
 
 import AuthScreen from './src/screens/Auth/Auth';
 import SharePlaceScreen from "./src/screens/SharePlace/SharePlace";
@@ -11,27 +11,27 @@ import configureStore from './src/store/configureStore';
 const store = configureStore();
 
 //Register Screens : typical to write your app name then dot Auth Screen
-Navigation.registerComponent("awesome-places.AuthScreen", () => AuthScreen, store, Provider); 
+Navigation.registerComponent("awesome-places.AuthScreen", () => AuthScreen, store, Provider);
 Navigation.registerComponent("awesome-places.SharePlaceScreen", () => SharePlaceScreen, store, Provider);
 Navigation.registerComponent("awesome-places.FindPlaceScreen", () => FindPlaceScreen, store, Provider);
 
 Navigation.registerComponent(
   "awesome-places.PlaceDetailScreen",
   () => PlaceDetailScreen,
-  store, 
-  Provider   
+  store,
+  Provider
 )
 
-//Start an App 
+//Start an App
 Navigation.startSingleScreenApp({
   screen: {
-    screen: "awesome-places.AuthScreen", 
+    screen: "awesome-places.AuthScreen",
     title: "Login" //will be displayed in the nav bar which will automatically be displayed with the library
   }
 });
 
 Navigation.registerComponent(
-  "awesome-places.SideDrawer", 
+  "awesome-places.SideDrawer",
   () => SideDrawer
 );
 
@@ -106,7 +106,7 @@ Navigation.registerComponent(
 //     selectedPlace: state.places.selectedPlace
 //   };
 // };
-// //receives dispatch function as an argument 
+// //receives dispatch function as an argument
 // const mapDispatchToProps = dispatch => {
 //   return {
 //     onAddPlace: name => dispatch(addPlace(name)),

@@ -8,7 +8,7 @@ const buttonWithBackground = props => {
     <View style={[styles.button, {backgroundColor: props.color} ]}>
         <Text>{props.children}</Text>
     </View>
-    )
+    );
     if(Platform.OS === 'android'){
         return(
             <TouchableNativeFeedback onPress={props.onPress}>
@@ -21,9 +21,6 @@ const buttonWithBackground = props => {
             {content}
         </TouchableOpacity>
     );
-
-
-
 };
 
 const styles = StyleSheet.create({
