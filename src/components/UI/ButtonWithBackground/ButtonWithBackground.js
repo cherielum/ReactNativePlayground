@@ -4,12 +4,12 @@ import { TouchableOpacity, TouchableNativeFeedback, Text, View,
 
 
 const buttonWithBackground = props => {
-    const content = (
-    <View style={[styles.button, {backgroundColor: props.color} ]}>
+    const content = (<View style={[styles.button, { backgroundColor: props.color }]}>
         <Text>{props.children}</Text>
-    </View>
-    );
-    if(Platform.OS === 'android'){
+    </View>)
+
+
+    if (Platform.OS === "android") {
         return(
             <TouchableNativeFeedback onPress={props.onPress}>
                 {content}

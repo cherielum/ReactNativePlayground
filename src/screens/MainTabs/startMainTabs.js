@@ -1,23 +1,24 @@
-//this will not hold a react component 
+//this will not hold a react component
 
-import {Navigation } from 'react-native-navigation';
+import { Navigation } from 'react-native-navigation';
+import { Platform } from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons';
 
 
 //startTabs is up to you
 const startTabs = () => {
     Promise.all([
-        Icon.getImageSource("md-map", 30),
-        Icon.getImageSource("ios-share-alt", 30),
-        Icon.getImageSource("ios-menu", 30)
+        Icon.getImageSource(Platform.OS === 'android' ? "md-map" : "ios-map", 30),
+        Icon.getImageSource(Platform.OS === 'android' ? "md-share-alt": "ios-share", 30),
+        Icon.getImageSource(Platform.OS === 'android' ? "md-menu" : "ios-menu", 30)
     ]).then(sources => {
         Navigation.startTabBasedApp({
             tabs: [
                 {
                     screen: "awesome-places.FindPlaceScreen",
-                    label: "Find Place", 
+                    label: "Find Place",
                     title: "Find Place",
-                    icon: sources[0], 
+                    icon: sources[0],
                     navigatorButtons: {
                         leftButtons: [
                             {
@@ -30,9 +31,9 @@ const startTabs = () => {
                 },
                 {
                     screen: "awesome-places.SharePlaceScreen",
-                    label: "Share Place", 
+                    label: "Share Place",
                     title: "Share Place",
-                    icon: sources[1], 
+                    icon: sources[1],
                     navigatorButtons: {
                         leftButtons: [
                             {
@@ -50,8 +51,8 @@ const startTabs = () => {
                    screen: "awesome-places.SideDrawer"
                 }
             }
-        }); 
-    });  
+        });
+    });
 };
 
 export default startTabs;
