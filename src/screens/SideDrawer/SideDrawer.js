@@ -11,6 +11,16 @@ class SideDrawer extends Component {
           { width: Dimensions.get("window").width * 0.8 }
         ]}
       >
+
+        <TouchableOpacity>
+        <View style={styles.drawerItem}>
+          <Icon name={Platform.OS === "android" ? "md-log-out" : "ios-log-out"}
+            size={30}
+            color="#aaa"
+            style={styles.drawerItemIcon}/>
+          <Text>Questionaire</Text>
+        </View>
+      </TouchableOpacity>
         <TouchableOpacity>
           <View style={styles.drawerItem}>
             <Icon name={Platform.OS === "android" ? "md-log-out" : "ios-log-out"}
@@ -18,6 +28,7 @@ class SideDrawer extends Component {
               color="#aaa"
               style={styles.drawerItemIcon}/>
             <Text>Sign Out</Text>
+
           </View>
         </TouchableOpacity>
 
