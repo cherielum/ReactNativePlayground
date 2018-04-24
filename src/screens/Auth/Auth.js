@@ -9,10 +9,17 @@ import ButtonWithBackground from "../../components/UI/ButtonWithBackground/Butto
 import backgroundImage from '../../assets/background.jpg';
 
 class AuthScreen extends Component {
+    state = {
+        viewMode: Dimensions.get("window").height > 500 ? "portrait" : "landscape"
+    };
+
+
     constructor(props) {
         super(props);
         Dimensions.addEventListener("change", (dims) => {
-            console.log(dims);
+            this.setState({
+                viewMode: Dimensions.get("window").height > 500 ? "portrait" : "landscape"
+            });
         });
     }
 
@@ -25,7 +32,7 @@ class AuthScreen extends Component {
     render (){
             let headingText = null;
 
-            if (Dimensions.get('window').height > 500){
+            if (this.state.viewMode === "portrait").height > 500){
                 headingText = (
                     <MainText>
                         <HeadingText> Please log in </HeadingText>
@@ -40,14 +47,15 @@ class AuthScreen extends Component {
             <View style={styles.inputContainer}>
                 <DefaultInput placeholder="Your E-mail Address" style={styles.input} />
 
-                <View style={styles.passwordContainer}>
-                    <View style= {styles.passwordWrapper}>
-                        <DefaultInput placeholder="Password"
-                                      style={[styles.input]} />
+                    <View style={this.state.viewMode === "portrait"
+                                 ? styles.portraitPasswordContainer
+                                 : styles.landscapePasswordContainer}>
+
+                    <View style ={{width: this.state.respStyles.pwWrapperWidth}}>
+                        <DefaultInput placeholder="Password" style={[styles.input]} />
                     </View>
-                    <View style= {styles.passwordWrapper}>
-                        <DefaultInput placeholder="Confirm Password"
-                                      style={styles.input}/>
+                    <View style ={{width: this.state.respStyles.pwWrapperWidth}}>
+                        <DefaultInput placeholder="Confirm Password" style={styles.input}/>
                     </View>
                 </View>
             </View>
@@ -77,12 +85,19 @@ const styles = StyleSheet.create({
         backgroundColor: "#eee",
         borderColor: "#bbb"
     },
-    passwordContainer: {
-        flexDirection: Dimensions.get('window').height > 500 ? "column" : "row",
+    landscapePasswordContainer: {
+        flexDirection: "row",
         justifyContent: "space-between"
     },
-    passwordWrapper: {
-        width: Dimensions.get('window').height > 500 ? "100%" : "45%"
+    portraitPasswordContainer: {
+        flexDirection: "column",
+        justifyContent: "space-between"
+    },
+    landscapePasswordWrapper: {
+        width: "45%"
+    },
+    portraitPasswordWrapper: {
+        width: "100%"
     }
 
 });
