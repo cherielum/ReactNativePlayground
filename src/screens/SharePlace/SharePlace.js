@@ -25,7 +25,7 @@ class SharePlaceScreen extends Component {
             if (event.id === "sideDrawerToggle") {
                 this.props.navigator.toggleDrawer({
                     side: "left"
-                })
+                });
             }
         }
     }
@@ -33,8 +33,8 @@ class SharePlaceScreen extends Component {
     placeNameChangedHandler = val => {
         this.setState({
             placeName: val
-        })
-    }
+        });
+    };
 
     placeAddedHandler = placeName => {
         if(this.state.placeName.trim() !==""){
