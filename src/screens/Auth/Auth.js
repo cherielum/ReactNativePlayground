@@ -16,12 +16,19 @@ class AuthScreen extends Component {
 
     constructor(props) {
         super(props);
-        Dimensions.addEventListener("change", (dims) => {
-            this.setState({
-                viewMode: Dimensions.get("window").height > 500 ? "portrait" : "landscape"
-            });
-        });
+        Dimensions.addEventListener("change", this.updateStyles);
     }
+
+    componentWillUnmount() {
+        Dimensions.removeEventListener("change", this.updateStyles);
+    }
+
+     updateStyles = (dims) => {
+        this.setState({
+            viewMode:
+                dims.window.height > 500 ? "portrait" : "landscape"
+        });
+     }
 
 
     loginHandler = () => {
@@ -32,7 +39,7 @@ class AuthScreen extends Component {
     render (){
             let headingText = null;
 
-            if (this.state.viewMode === "portrait").height > 500){
+            if (this.state.viewMode === "portrait") {
                 headingText = (
                     <MainText>
                         <HeadingText> Please log in </HeadingText>
@@ -49,12 +56,25 @@ class AuthScreen extends Component {
 
                     <View style={this.state.viewMode === "portrait"
                                  ? styles.portraitPasswordContainer
-                                 : styles.landscapePasswordContainer}>
+                                 : styles.landscapePasswordContainer
+                                }
+                    >
 
-                    <View style ={{width: this.state.respStyles.pwWrapperWidth}}>
+                    <View
+                        style ={this.state.viewMode === "portrait"
+                                    ? styles.portraitPasswordWrapper
+                                    : styles.landscapePasswordWrapper
+                                }
+                    >
                         <DefaultInput placeholder="Password" style={[styles.input]} />
                     </View>
-                    <View style ={{width: this.state.respStyles.pwWrapperWidth}}>
+                    <View
+                        style ={
+                            this.state.viewMode === "portrait"
+                                ? styles.portraitPasswordWrapper
+                                : styles.landscapePasswordWrapper
+                            }
+                    >
                         <DefaultInput placeholder="Confirm Password" style={styles.input}/>
                     </View>
                 </View>
