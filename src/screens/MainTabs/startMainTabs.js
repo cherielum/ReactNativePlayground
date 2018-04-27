@@ -56,7 +56,7 @@ const startTabs = () => {
                 }
             },
             appStyle: {
-                tabBarSelectedButtonColor: "red"
+                tabBarSelectedButtonColor: "#FF3A86"
             },
         });
     });
