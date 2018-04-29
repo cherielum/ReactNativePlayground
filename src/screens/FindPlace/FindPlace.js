@@ -6,12 +6,12 @@ import PlaceList from '../../components/PlaceList/PlaceList';
 
 class FindPlaceScreen extends Component {
     static navigatorStyle = {
-        navBarButtonColor: "orange"
+        navBarButtonColor: "#06EEFA"
     };
 
     state = {
         placesLoaded: false,
-        removeAnim: Animated.Value(1)
+        removeAnim: new Animated.Value(1)
     }
 
     constructor(props) {
@@ -53,13 +53,27 @@ class FindPlaceScreen extends Component {
 
     render() {
         let content = (
+            <Animated.View
+               style={{
+                   opacity: this.state.removeAnim,
+                   transform: [
+                        {
+                            scale: this.state.removeAnim.interpolate({
+                                inputRange: [0, 1],
+                                outputRange: [12, 1]
+                            })
+                        }
+                    ]
+               }}
+            >
             <TouchableOpacity onPress={this.placesSearchHandler}>
                 <View style={styles.searchButton}>
                     <Text style={styles.searchButtonText}>
-                        Find Places
+                        Find Your Next Love
                     </Text>
                 </View>
             </TouchableOpacity>
+            </Animated.View>
         );
         if (this.state.placesLoaded) {
             content = (
@@ -82,13 +96,14 @@ const styles = StyleSheet.create({
         alignItems: "center"
     },
     searchButton: {
-        borderColor: "orange",
+        borderColor: "#06EEFA",
+        backgroundColor: "black",
         borderWidth: 3,
         borderRadius: 50,
         padding: 20
     },
     searchButtonText: {
-        color: "orange",
+        color: "#06EEFA",
         fontWeight: "bold",
         fontSize: 26
     }

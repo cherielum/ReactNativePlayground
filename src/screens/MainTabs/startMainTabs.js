@@ -47,7 +47,7 @@ const startTabs = () => {
                 }
             ],
             tabsStyle: {
-                tabBarSelectedButtonColor: "orange"
+                tabBarSelectedButtonColor: "#FF3A86"
             },
 
             drawer: {

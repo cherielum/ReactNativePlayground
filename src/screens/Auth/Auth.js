@@ -2,12 +2,12 @@ import React, { Component } from 'react';
 import { View, Text, Button, TextInput, StyleSheet,
     ImageBackground, Dimensions } from 'react-native';
 
-    import startMainTabs from "../MainTabs/startMainTabs";
-    import DefaultInput from "../../components/UI/DefaultInput/DefaultInput";
-    import HeadingText from "../../components/UI/HeadingText/HeadingText";
-    import MainText from "../../components/UI/MainText/MainText";
-    import ButtonWithBackground from "../../components/UI/ButtonWithBackground/ButtonWithBackground";
-    import backgroundImage from "../../assets/background.jpg";
+import startMainTabs from "../MainTabs/startMainTabs";
+import DefaultInput from "../../components/UI/DefaultInput/DefaultInput";
+import HeadingText from "../../components/UI/HeadingText/HeadingText";
+import MainText from "../../components/UI/MainText/MainText";
+import ButtonWithBackground from "../../components/UI/ButtonWithBackground/ButtonWithBackground";
+import backgroundImage from "../../assets/background.jpeg";
 
     class AuthScreen extends Component {
       state = {
@@ -40,7 +40,7 @@ import { View, Text, Button, TextInput, StyleSheet,
         if (this.state.viewMode === "portrait") {
           headingText = (
             <MainText>
-              <HeadingText>Please Log In</HeadingText>
+              <HeadingText>In The Park</HeadingText>
             </MainText>
           );
         }
